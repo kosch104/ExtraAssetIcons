@@ -1,9 +1,10 @@
-﻿using Extra.Lib.Helper;
-using Extra.Lib;
+﻿using Extra.Lib;
+using Extra.Lib.Helper;
 using Game.Prefabs;
 using Unity.Collections;
 using Unity.Entities;
-namespace ExtraAssetIcons
+
+namespace ExtraAssetIcons.Mod
 {
 	internal static class EditEntities
 	{
