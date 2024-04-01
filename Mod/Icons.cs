@@ -1,7 +1,7 @@
-﻿using Game.Prefabs;
-using System.IO;
+﻿using System.IO;
+using Game.Prefabs;
 
-namespace ExtraAssetIcons
+namespace ExtraAssetIcons.Mod
 {
     internal class Icons
     {
